@@ -6,7 +6,6 @@
 from __future__ import division
 import networkx as nx
 import matplotlib.pyplot as plt
-get_ipython().magic(u'matplotlib inline')
 
 import os
 import tempfile
